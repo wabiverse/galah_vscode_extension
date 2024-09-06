@@ -1,0 +1,4 @@
+node_modules
+*.vsix
+.p4*
+.DS_Store
